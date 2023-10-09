@@ -1,23 +1,50 @@
-[09-Jul-2022 15:46:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[' in /home/dwiw2939/public_html/TA/status-laporan.php on line 73
-[09-Jul-2022 15:46:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[' in /home/dwiw2939/public_html/TA/status-laporan.php on line 73
-[09-Jul-2022 15:46:27 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[' in /home/dwiw2939/public_html/TA/status-laporan.php on line 73
-[09-Jul-2022 15:46:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[' in /home/dwiw2939/public_html/TA/status-laporan.php on line 73
-[09-Jul-2022 15:46:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[' in /home/dwiw2939/public_html/TA/status-laporan.php on line 73
-[09-Jul-2022 15:46:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[' in /home/dwiw2939/public_html/TA/status-laporan.php on line 73
-[09-Jul-2022 15:46:31 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[' in /home/dwiw2939/public_html/TA/status-laporan.php on line 73
-[09-Jul-2022 15:46:31 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[' in /home/dwiw2939/public_html/TA/status-laporan.php on line 73
-[09-Jul-2022 15:46:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[' in /home/dwiw2939/public_html/TA/status-laporan.php on line 73
-[09-Jul-2022 15:46:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[' in /home/dwiw2939/public_html/TA/status-laporan.php on line 73
-[09-Jul-2022 15:46:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[' in /home/dwiw2939/public_html/TA/status-laporan.php on line 73
-[09-Jul-2022 15:46:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[' in /home/dwiw2939/public_html/TA/status-laporan.php on line 73
-[09-Jul-2022 15:46:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[' in /home/dwiw2939/public_html/TA/status-laporan.php on line 73
-[09-Jul-2022 15:46:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[' in /home/dwiw2939/public_html/TA/status-laporan.php on line 73
-[09-Jul-2022 15:46:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[' in /home/dwiw2939/public_html/TA/status-laporan.php on line 73
-[09-Jul-2022 15:46:34 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[' in /home/dwiw2939/public_html/TA/status-laporan.php on line 73
-[09-Jul-2022 15:46:34 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[' in /home/dwiw2939/public_html/TA/status-laporan.php on line 73
-[09-Jul-2022 15:46:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[' in /home/dwiw2939/public_html/TA/status-laporan.php on line 73
-[09-Jul-2022 15:46:36 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[' in /home/dwiw2939/public_html/TA/status-laporan.php on line 73
-[09-Jul-2022 15:46:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[' in /home/dwiw2939/public_html/TA/status-laporan.php on line 73
-[09-Jul-2022 15:50:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[' in /home/dwiw2939/public_html/TA/status-laporan.php on line 73
-[09-Jul-2022 15:53:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[' in /home/dwiw2939/public_html/TA/status-laporan.php on line 73
-[09-Jul-2022 15:55:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[' in /home/dwiw2939/public_html/TA/status-laporan.php on line 73
+[09-Jul-2022 14:29:00 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/beranda.php on line 3
+[09-Jul-2022 14:29:59 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/beranda.php on line 3
+[09-Jul-2022 14:40:45 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/beranda.php on line 3
+[09-Jul-2022 14:46:27 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/beranda.php on line 3
+[09-Jul-2022 14:47:19 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/header.php on line 1
+[09-Jul-2022 14:53:03 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/beranda.php on line 3
+[09-Jul-2022 14:53:18 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/beranda.php on line 3
+[09-Jul-2022 14:53:25 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/beranda.php on line 3
+[09-Jul-2022 14:53:42 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/beranda.php on line 3
+[09-Jul-2022 14:53:49 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/beranda.php on line 3
+[09-Jul-2022 14:53:57 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/beranda.php on line 3
+[09-Jul-2022 14:54:55 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/beranda.php on line 3
+[09-Jul-2022 14:55:26 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/beranda.php on line 3
+[09-Jul-2022 14:55:37 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/beranda.php on line 3
+[09-Jul-2022 14:55:54 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/beranda.php on line 3
+[09-Jul-2022 14:56:03 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/data-objek.php on line 4
+[09-Jul-2022 14:56:11 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/admin.php on line 4
+[09-Jul-2022 14:56:14 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/data-keluhan.php on line 4
+[09-Jul-2022 14:57:51 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/beranda.php on line 3
+[09-Jul-2022 14:57:57 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/admin.php on line 4
+[09-Jul-2022 14:58:18 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/beranda.php on line 3
+[09-Jul-2022 14:58:19 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/data-objek.php on line 4
+[09-Jul-2022 14:59:29 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/admin.php on line 4
+[09-Jul-2022 15:01:11 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/admin.php on line 4
+[09-Jul-2022 15:01:36 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/admin.php on line 4
+[09-Jul-2022 15:01:39 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/admin.php on line 4
+[09-Jul-2022 15:02:19 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/admin.php on line 4
+[09-Jul-2022 15:03:16 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/add-admin.php on line 3
+[09-Jul-2022 15:03:21 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/add-admin.php on line 3
+[09-Jul-2022 15:03:34 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/data-objek.php on line 4
+[09-Jul-2022 15:04:05 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/kategori-kendala.php on line 4
+[09-Jul-2022 15:04:57 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/kategori-kendala.php on line 4
+[09-Jul-2022 15:05:02 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/kategori-kendala.php on line 4
+[09-Jul-2022 15:05:27 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dwiw2939/public_html/TA/admin/kategori-kendala.php on line 4
+[09-Jul-2022 15:06:12 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dwiw2939/public_html/TA/admin/export-excel-objektpajak.php:1) in /home/dwiw2939/public_html/TA/admin/export-excel-objektpajak.php on line 31
+[09-Jul-2022 15:06:12 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dwiw2939/public_html/TA/admin/export-excel-objektpajak.php:1) in /home/dwiw2939/public_html/TA/admin/export-excel-objektpajak.php on line 32
+[09-Jul-2022 15:06:31 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; OLERead has a deprecated constructor in /home/dwiw2939/public_html/TA/admin/excel_reader.php on line 95
+[09-Jul-2022 15:06:31 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Spreadsheet_Excel_Reader has a deprecated constructor in /home/dwiw2939/public_html/TA/admin/excel_reader.php on line 312
+[09-Jul-2022 15:06:31 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dwiw2939/public_html/TA/admin/proses-excel.php:7) in /home/dwiw2939/public_html/TA/admin/proses-excel.php on line 43
+[09-Jul-2022 15:07:33 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dwiw2939/public_html/TA/admin/proses-excel.php:8) in /home/dwiw2939/public_html/TA/admin/proses-excel.php on line 43
+[09-Jul-2022 15:09:11 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dwiw2939/public_html/TA/admin/export-excel-objektpajak.php:30) in /home/dwiw2939/public_html/TA/admin/export-excel-objektpajak.php on line 31
+[09-Jul-2022 15:09:11 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dwiw2939/public_html/TA/admin/export-excel-objektpajak.php:30) in /home/dwiw2939/public_html/TA/admin/export-excel-objektpajak.php on line 32
+[09-Jul-2022 20:50:15 Asia/Jakarta] PHP Warning:  file_get_contents(https://monitoring-br.herokuapp.com/chat/send?id=Liyando): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/dwiw2939/public_html/TA/admin/proses-edit-laporan.php on line 82
+[09-Jul-2022 20:51:16 Asia/Jakarta] PHP Warning:  file_get_contents(https://monitoring-br.herokuapp.com/chat/send?id=Liyando): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/dwiw2939/public_html/TA/admin/proses-edit-laporan.php on line 28
+[09-Jul-2022 21:08:33 Asia/Jakarta] PHP Warning:  file_get_contents(https://monitoring-br.herokuapp.com/chat/send?id=pelaporan): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/dwiw2939/public_html/TA/admin/proses-edit-laporan.php on line 35
+[09-Jul-2022 21:27:45 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; OLERead has a deprecated constructor in /home/dwiw2939/public_html/TA/admin/excel_reader.php on line 95
+[09-Jul-2022 21:27:45 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Spreadsheet_Excel_Reader has a deprecated constructor in /home/dwiw2939/public_html/TA/admin/excel_reader.php on line 312
